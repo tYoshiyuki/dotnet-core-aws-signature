@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreAwsSignature.ConsoleApp", "DotNetCoreAwsSignature.ConsoleApp\DotNetCoreAwsSignature.ConsoleApp.csproj", "{4D87AF9C-2ECD-4A5C-B567-6818C989461F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreAwsSignature.Library", "DotNetCoreAwsSignature.Library\DotNetCoreAwsSignature.Library.csproj", "{C1BA8914-28BF-49BE-936D-A7F81465D210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D87AF9C-2ECD-4A5C-B567-6818C989461F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D87AF9C-2ECD-4A5C-B567-6818C989461F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D87AF9C-2ECD-4A5C-B567-6818C989461F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D87AF9C-2ECD-4A5C-B567-6818C989461F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BA8914-28BF-49BE-936D-A7F81465D210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BA8914-28BF-49BE-936D-A7F81465D210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BA8914-28BF-49BE-936D-A7F81465D210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BA8914-28BF-49BE-936D-A7F81465D210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDDB4DD-BB7F-46D6-AB59-84DAAF6A644E}
+	EndGlobalSection
+EndGlobal
